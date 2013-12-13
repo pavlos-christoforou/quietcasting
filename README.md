@@ -1,5 +1,5 @@
-Quiet Casting
-=============
+QuietCasting
+============
 
 QuietCasting is a low rate, low power, group chat or twitter style
 telecommunication technology having no central control nodes.
