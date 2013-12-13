@@ -107,7 +107,7 @@ message. The encoding can correct:
 Very simply the data frame is structured as below (where numbers stand
 for 'bytes'):
 
-    | 48b payload x 4 for a total of 196b |
+    | 48b payload x 4 for a total of 192b |
 
 No node ids or network id will be defined at this level and indeed a
 caller can just access this layer and transmit any sequence of 48
